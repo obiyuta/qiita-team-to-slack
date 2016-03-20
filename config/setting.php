@@ -7,8 +7,8 @@
 **/
 
 
-define('QIITA_BASE_URL', 'http://YOUR_QIITA_TEAM_URL');
-define('SLACK_WEBHOOK_URL', 'http://YOUR_SLACK_WEBHOOK_URL');
+define('QIITA_BASE_URL', 'https://xxxx.qiita.com');
+define('SLACK_WEBHOOK_URL', 'https://hooks.slack.com/services/xxxxx');
 
 $members = array(
 	'SLACK_CHANNEL_NAME' => array(
